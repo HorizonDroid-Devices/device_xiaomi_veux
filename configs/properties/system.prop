@@ -60,6 +60,9 @@ persist.log.tag.ultrasound_extn=S
 # LMK
 ro.config.low_ram=false
 
+# Maintainer
+ro.horizon.maintainer=Aswin OP
+
 # Media
 media.aac_51_output_enabled=true
 media.stagefright.enable-aac=true
